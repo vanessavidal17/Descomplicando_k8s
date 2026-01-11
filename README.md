@@ -1,4 +1,4 @@
-# Curso descomplicando Kubernets
+# Curso descomplicando Kubernetes
 
 Esse repositório conterá os arquivos criados durante o estudo do curso.
 
